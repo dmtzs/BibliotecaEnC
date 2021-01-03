@@ -1,0 +1,330 @@
+NULL
+NULL
+0
+ahi te va el titulo
+Maxis
+mierdeses
+2017
+100
+NULL
+654-123-687-456-6
+-------------------------------
+NULL
+NULL
+0
+alrededor de la filosofia
+arthur schopenhauer
+ensayo
+2000
+286
+NULL
+97092494-3-6
+-------------------------------
+NULL
+NULL
+0
+angeles y demonios
+dan brown
+misterio
+2000
+826
+NULL
+978-849-561-877-1
+-------------------------------
+NULL
+NULL
+0
+asesinato en el campo de golf
+agatha christie
+policial
+1923
+294
+NULL
+84-272-0265-2
+-------------------------------
+NULL
+NULL
+0
+asesinato en mesopotamia
+agatha christie
+policial
+1936
+280
+NULL
+84-272-0140-0
+-------------------------------
+NULL
+NULL
+0
+cien años de soledad
+gabriel garcia marquez
+novela
+1967
+509
+NULL
+978-607-07-0435-2
+-------------------------------
+NULL
+NULL
+0
+corazon diario de un nino
+edmundo de amicis
+ficcion historica
+2000
+605
+NULL
+978-970-770-771-9
+-------------------------------
+02/12/17
+17/12/17
+3
+cuentos
+chejov
+vergas
+2015
+857
+diego
+978-968-867-853-4
+-------------------------------
+NULL
+NULL
+0
+ederxitop preitxitop de caramelitop
+ederxito
+comedia
+2017
+201
+NULL
+2654-321-59-258
+-------------------------------
+NULL
+NULL
+0
+el arte de tener siempre la razon
+arthur schopenhauer
+ensayo
+2009
+256
+NULL
+978-607-313-157-5
+-------------------------------
+NULL
+NULL
+0
+el camino de wigan pier
+george orwell
+autobiografia
+1937
+110
+NULL
+84-233-1221-6
+-------------------------------
+NULL
+NULL
+0
+el codigo da vinci
+dan brown
+misterio
+2003
+549
+NULL
+84-95618-60-5
+-------------------------------
+NULL
+NULL
+0
+el corazon de las tinieblas
+joseph conrad
+novela corta
+1899
+356
+NULL
+978-607-314-022-5
+-------------------------------
+02/12/17
+17/12/17
+0
+el extranjero
+albert camus
+novela corta
+1899
+195
+diego
+978-2-07-036002-4
+-------------------------------
+NULL
+NULL
+0
+el hobbit
+j.r.r tolkien
+novela
+1937
+321
+NULL
+978-607-07-1271-5
+-------------------------------
+NULL
+NULL
+0
+el silmarillon
+j.r.r tolkien
+novela
+1977
+365
+NULL
+978-842-263-119-4
+-------------------------------
+NULL
+NULL
+0
+el universo en una cascara de nuez
+stephen hawking
+ensayo
+2001
+248
+NULL
+978-607-8406-10-4
+-------------------------------
+NULL
+NULL
+0
+fausto
+johan wolfgang von goethe
+misterio
+1808
+420
+NULL
+456-265-820-65-4
+-------------------------------
+NULL
+NULL
+0
+harry potter y el legado maldito
+j.k rowling
+obra de teatro
+2016
+652
+NULL
+978-84-9838-756-8
+-------------------------------
+NULL
+NULL
+0
+huesos de lagartija
+federico
+novela
+1998
+125
+NULL
+978-970-785-438-3
+-------------------------------
+NULL
+NULL
+0
+infierno
+dan brown
+novela
+2013
+398
+NULL
+978-837-508-712-3
+-------------------------------
+02/12/17
+17/12/17
+0
+juan salvador gaviota
+richard bach
+novela corta
+1970
+249
+diego
+968-497-007-2
+-------------------------------
+NULL
+NULL
+0
+la vida es matematica
+jhon allen paulos
+autobiografia
+2015
+184
+NULL
+978-607-421-760-5
+-------------------------------
+NULL
+NULL
+0
+los hijos de hurin
+j.r.r tolkien
+novela
+2007
+235
+NULL
+978-84-450-7654-5
+-------------------------------
+NULL
+NULL
+0
+los ojos de mi princesa
+calos cuahtemoc
+novela
+2004
+195
+NULL
+968-7277-63-7
+-------------------------------
+NULL
+NULL
+0
+poirot en egipto
+aghata christie
+misterio
+1937
+652
+NULL
+84-272-0146-x
+-------------------------------
+NULL
+NULL
+0
+quien se ha llevado mi queso
+spencer jhonson
+novela
+1998
+105
+NULL
+978-607-954139-3-1
+-------------------------------
+NULL
+NULL
+0
+rebelion en la granja
+george orwell
+satira politica
+1945
+132
+NULL
+978-607-96856-2-1
+-------------------------------
+NULL
+NULL
+0
+todos los gatos son pardos
+carlos fuentes
+novela corta
+1970
+298
+NULL
+968-23-1685-5
+-------------------------------
+NULL
+NULL
+0
+una odisea espacial
+arthur c. clarke
+ciencia ficcion
+1968
+209
+NULL
+84-7634-053-2
+-------------------------------
